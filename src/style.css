@@ -108,7 +108,6 @@ body{
 
 .noticias{
     width: 1200px;
-    height: 2000px;
     display: flex;
     justify-content: space-evenly;
     margin: 0px auto;
@@ -193,4 +192,16 @@ body{
 .main-menu__link:hover{
     text-decoration: underline;
     font-weight: bold;
+}
+.team{
+    display: flex;
+    width: 1200px;
+    margin: auto;  
+}
+.member{
+    background-color: thistle;
+    width: 30%;
+    padding: 20px;
+    margin: 2px;
+    text-align: center;
 }
