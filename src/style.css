@@ -40,7 +40,7 @@ body{
 }
 
 .container-imagen{
-    background-image: url('../resources/portada.jpg');
+    background-image: url('./resources/portada.jpg');
     height: 300px;
 }
 
